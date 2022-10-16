@@ -30,3 +30,6 @@ COPY cookbook.ipynb /home/jovyan
 COPY pictures /home/jovyan/
 COPY settings.py /home/jovyan/
 COPY Downie.crx /home/jovyan/
+COPY scripts /home/jovyan/
+COPY md.py /home/jovyan/
+COPY root /home/jovyan/
